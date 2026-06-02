@@ -28,22 +28,20 @@ Beyond the digital realm, I am an avid reader, enjoy bike touring, and am dedica
 
 Here are some of the projects I've worked on:
 
-1. [waqaskhuram.com](https://waqaskhuram.com)
-2. [mtjuae.com](https://mtjuae.com)
-3. [dowithcoach.com](https://dowithcoach.com)
-4. [shift20.org](https://shift20.org)
-5. [textbetter.com](https://textbetter.com)
-6. [blackpublicmedia.org](https://blackpublicmedia.org)
-7. [israintl.com](https://israintl.com)
-8. [advancedpsychiatrycenters.com](https://www.advancedpsychiatrycenters.com/)
-9. [inovient.io](https://www.inovient.io/)
+1. [mtjuae.com](https://mtjuae.com)
+2. [dowithcoach.com](https://dowithcoach.com)
+3. [shift20.org](https://shift20.org)
+4. [textbetter.com](https://textbetter.com)
+5. [blackpublicmedia.org](https://blackpublicmedia.org)
+6. [israintl.com](https://israintl.com)
+7. [advancedpsychiatrycenters.com](https://www.advancedpsychiatrycenters.com/)
+8. [inovient.io](https://www.inovient.io/)
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** [me@waqaskhuram.com](mailto:me@waqaskhuram.com)
+- **Email:** [waqaskhuram97@gmail.com](mailto:waqaskhuram97@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/iamwaqaskhuram/)
-- **Website:** [waqaskhuram.com](https://waqaskhuram.com)
 
 Feel free to reach out for collaborations or just a friendly chat!
