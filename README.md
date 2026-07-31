@@ -21,7 +21,8 @@ Experienced in **Agile/Scrum** delivery, stakeholder management, budget oversigh
 ## 💼 Work Experience
 
 ### Project Manager — Dablew Tech, Lahore
-*Aug 2022 – May 2026*
+
+_Aug 2022 – May 2026_
 
 - Manage end-to-end delivery of 20+ web, web app, and CRM projects, coordinating scope definition, sprint planning, resourcing, and final delivery.
 - Lead cross-functional teams through daily standups, sprint planning, and retrospectives.
@@ -30,7 +31,8 @@ Experienced in **Agile/Scrum** delivery, stakeholder management, budget oversigh
 - Began part-time while serving as Web Development Team Lead at Snexus (through Jun 2024), then transitioned to full-time.
 
 ### Web Development Team Lead — Snexus, Lahore
-*June 2021 – June 2024*
+
+_June 2021 – June 2024_
 
 - Led custom WordPress builds (Elementor, WP Bakery) and bespoke PHP modules.
 - Ran requirement-elicitation sessions with international clients across WordPress, Shopify, WIX, and custom PHP.
@@ -38,17 +40,20 @@ Experienced in **Agile/Scrum** delivery, stakeholder management, budget oversigh
 - Collaborated with SEO on site structure, page speed, and markup.
 
 ### Web Developer — Alfa Mohuha, Lahore
-*May 2020 – June 2021*
+
+_May 2020 – June 2021_
 
 - WordPress theme customizations, client demos, and custom PHP modules.
 
 ### PHP Developer / PMO Agent — WorldCall Pvt Ltd, Lahore
-*Sep 2019 – May 2020*
+
+_Sep 2019 – May 2020_
 
 - Built CRM modules in PHP with MySQL; maintained lessons-learned documentation and cross-department coordination.
 
 ### Web Designer — Select & Work, Lahore
-*Feb 2018 – Feb 2019*
+
+_Feb 2018 – Feb 2019_
 
 - Responsive front-end with Bootstrap, CSS, jQuery/JS validation; PHP for database-driven content.
 
@@ -57,18 +62,23 @@ Experienced in **Agile/Scrum** delivery, stakeholder management, budget oversigh
 ## 🚀 Key Projects
 
 ### E-Commerce Platforms (Shopify & Custom Builds)
+
 Directed cross-functional teams through multiple e-commerce storefronts — product catalog, payment integration, and checkout testing.
 
 ### CRM System — Accounting Firm
+
 Managed delivery of a custom CRM for client/case/financial workflow tracking from requirements through deployment.
 
 ### Analytics Dashboard (Amplitude Integration)
+
 Led a custom analytics dashboard (MonsterInsights-style) with Amplitude for user behavior and drop-off analysis.
 
 ### Web Services Portfolio
+
 Client projects across **Webflow**, **WIX**, **WordPress**, and **Shopify** from requirements through launch.
 
 ### Selected Live Sites
+
 - [mtjuae.com](https://mtjuae.com)
 - [dowithcoach.com](https://dowithcoach.com)
 - [shift20.org](https://shift20.org)
@@ -107,14 +117,14 @@ Client projects across **Webflow**, **WIX**, **WordPress**, and **Shopify** from
 ## 🎓 Education
 
 **BS Computer Science** — Hajvery University  
-*Sep 2016 – Jun 2019*
+_Sep 2016 – Jun 2019_
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** [waqaskhuram97@gmail.com](mailto:waqaskhuram97@gmail.com)
+- **Email:** [hello@waqaskhuram.dev](mailto:hello@waqaskhuram.dev)
 - **LinkedIn:** [linkedin.com/in/iamwaqaskhuram](https://www.linkedin.com/in/iamwaqaskhuram/)
-- **Phone:** 0309-8384661
+- **Phone/Whatsapp:** [0309-8384661](https://wa.me/923098384661?text=Hello%20I%20would%20like%20to%20know%20more)
 
 Feel free to reach out for collaborations or project discussions!
